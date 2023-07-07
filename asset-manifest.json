@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7e5fd81.css",
+    "main.js": "/static/js/main.13ab7a0e.js",
+    "static/js/787.d94785db.chunk.js": "/static/js/787.d94785db.chunk.js",
+    "static/media/sub2slide1.png": "/static/media/sub2slide1.1d438ca7663bddcd4a27.png",
+    "static/media/sub2slide5.png": "/static/media/sub2slide5.9805b14034bab15e8c85.png",
+    "static/media/sub2slide3.png": "/static/media/sub2slide3.313ff6e50dcece80033e.png",
+    "static/media/sub2slide4.png": "/static/media/sub2slide4.affcacdc1218b53dfde5.png",
+    "static/media/sub2slide6.png": "/static/media/sub2slide6.b8ad433b107a857260ec.png",
+    "static/media/sub2slide2.png": "/static/media/sub2slide2.21365c593390354adee1.png",
+    "static/media/section2slide1.png": "/static/media/section2slide1.249d3b87cae41da0b6a5.png",
+    "static/media/section2slide5.png": "/static/media/section2slide5.29d3060ed83ac5b3d371.png",
+    "static/media/section2slide4.png": "/static/media/section2slide4.b1b5ac84c7102bafff7d.png",
+    "static/media/section2slide3.png": "/static/media/section2slide3.a19da8bfcc986e362923.png",
+    "static/media/section2slide2.png": "/static/media/section2slide2.fb2318a96611b2a4d929.png",
+    "static/media/section2slide6.png": "/static/media/section2slide6.0efd9b7903ff071c921c.png",
+    "static/media/banner2.png": "/static/media/banner2.916a855facf288d83317.png",
+    "static/media/sub2tourThum3.png": "/static/media/sub2tourThum3.6aba375011fd441c8a6e.png",
+    "static/media/banner1.png": "/static/media/banner1.065e1aed3e07bb64f11b.png",
+    "static/media/sub2tourThum1.png": "/static/media/sub2tourThum1.fb7ac10a26a8974c361c.png",
+    "static/media/tourlist4.png": "/static/media/tourlist4.602927b68cff5a895bab.png",
+    "static/media/sub2tourThum2.png": "/static/media/sub2tourThum2.787a006416af58361dff.png",
+    "static/media/tourlist3.png": "/static/media/tourlist3.edd2872cd957f4cf16d7.png",
+    "static/media/banner3.png": "/static/media/banner3.30eda70ef537fb1b6081.png",
+    "static/media/tourlist1.png": "/static/media/tourlist1.67402883f7e47f0d8bd8.png",
+    "static/media/tourlist2.png": "/static/media/tourlist2.ebfd34996c2cbb8596eb.png",
+    "index.html": "/index.html",
+    "main.a7e5fd81.css.map": "/static/css/main.a7e5fd81.css.map",
+    "main.13ab7a0e.js.map": "/static/js/main.13ab7a0e.js.map",
+    "787.d94785db.chunk.js.map": "/static/js/787.d94785db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7e5fd81.css",
+    "static/js/main.13ab7a0e.js"
+  ]
+}
